@@ -1,0 +1,8 @@
+.how-it-works ul {
+  list-style-type: none;
+}
+
+.how-it-works ul li {
+  background-repeat: no-repeat;
+  margin-bottom: 0.5rem;
+}
