@@ -1,3 +1,11 @@
+.cta-2 {
+  animation-delay: 0.5s;
+}
+
+.cta-3 {
+  animation-delay: 1s;
+}
+
 .how-it-works ul {
   list-style-type: none;
 }
